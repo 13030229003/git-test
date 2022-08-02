@@ -16,5 +16,6 @@ public class GitTest {
         System.out.println("hot-fix 分支修改，然后提交");
         System.out.println("master 分支修改，测试合并冲突");
         System.out.println("hot-fix 分支修改，测试分支合并冲突");
+        System.out.println("push test");
     }
 }
